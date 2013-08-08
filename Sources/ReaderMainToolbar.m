@@ -219,7 +219,7 @@
 			titleLabel.minimumFontSize = 14.0f;
 			titleLabel.text = [object.fileName stringByDeletingPathExtension];
 
-			[self addSubview:titleLabel]; 
+			//[self addSubview:titleLabel]; 
 		}
 	}
 
